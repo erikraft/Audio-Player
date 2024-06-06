@@ -6,7 +6,6 @@ body {
 	min-height: 100%;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
-	background: #ffffff;
 	-webkit-font-smoothing: antialiased;
 	-webkit-box-shadow: inset 0 0 18.75em rgba(0,0,0,.5); /* 300 */
 	-moz-box-shadow: inset 0 0 18.75em rgba(0,0,0,.5); /* 300 */
